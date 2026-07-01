@@ -1,0 +1,10 @@
+body {
+  background: black;
+}
+button {
+  witdh: 80px;
+  heigth: 20px;
+  background: yellow;
+  border: 2px solid white;
+  cursor: pointer;
+}

@@ -2,9 +2,19 @@ body {
   background: white;
 }
 button {
-  witdh: 80px;
-  heigth: 20px;
+  width: 80px;
+  height: 20px;
   background: yellow;
   border: 2px solid black;
   cursor: pointer;
+  margin: 20px;
+  position: fixed;
+}
+.upbtn {
+  width: 200px;
+  height: 25px;
+  background: red;
+  border: 3px solid black;
+  cursor: pointer;
+  margin-top: 20px;
 }
